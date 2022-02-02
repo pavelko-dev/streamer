@@ -45,6 +45,12 @@
 			<artifactId>javacv-platform</artifactId>
 			<version>1.5.5</version>
 		</dependency>
+
+		<dependency>
+			<groupId>com.sun.activation</groupId>
+			<artifactId>javax.activation</artifactId>
+			<version>1.2.0</version>
+		</dependency>
 	</dependencies>
 
 	<build>
